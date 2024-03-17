@@ -1,0 +1,3 @@
+Hi
+this is my first trial for git and github
+Currently attending the Spring Fest of my college
